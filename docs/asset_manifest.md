@@ -1,6 +1,6 @@
 # Asset Manifest
 
-## 第一章背景
+## 第一章背景（已补齐）
 
 - `game/images/bg_longbourn_breakfast.png`
 - `game/images/bg_carriage_night.png`
@@ -8,7 +8,7 @@
 - `game/images/bg_ball_corner.png`
 - `game/images/bg_longbourn_night.png`
 
-## 第一章人物立绘
+## 第一章人物立绘（已补齐）
 
 - `game/images/characters/bingley_ball_smile.png`
 - `game/images/characters/charlotte_ball_neutral.png`
@@ -27,4 +27,8 @@
 - `game/images/characters/mrs_bennet_home_directing.png`
 - `game/images/characters/mrs_bennet_home_excited.png`
 
-> PNG 二进制资源需要单独上传；脚本路径已按以上清单固定。
+## 状态
+
+第一章当前脚本所需的 21 张 PNG 已全部进入 GitHub 仓库。
+
+第二章仍处于原型阶段，部分新增背景和角色资源尚未制作；这属于后续开发内容，不属于第一章资源缺失。
