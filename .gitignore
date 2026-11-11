@@ -1,0 +1,20 @@
+# Ren'Py generated files
+game/cache/
+game/saves/
+game/*.rpyc
+*.rpyc
+*.rpymc
+*.pyc
+__pycache__/
+
+# Build output
+dist/
+build/
+*.apk
+*.aab
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
